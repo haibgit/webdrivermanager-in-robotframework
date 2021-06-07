@@ -1,2 +1,3 @@
 # webdrivermanager-in-robotframework
 How to use webdrivermanager in robotframework
+Detail, please read my blog https://haibgit.blogspot.com/2021/06/how-to-use-webdrivermanager-in.html. You can using TRANSLATE in my bog...
